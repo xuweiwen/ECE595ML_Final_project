@@ -1,0 +1,200 @@
+Average PSNR: 15.71
+iter 0          time 2s           sec/eval 0.0     sec/iter 0.00    maintenance 1.8   
+Average PSNR: 27.48
+iter 648        time 28s          sec/eval 20.3    sec/iter 0.03    maintenance 6.1   
+Average PSNR: 28.50
+iter 1296       time 51s          sec/eval 20.0    sec/iter 0.03    maintenance 2.8   
+Average PSNR: 28.80
+iter 1944       time 1m 14s       sec/eval 20.1    sec/iter 0.03    maintenance 2.7   
+Average PSNR: 29.16
+iter 2592       time 1m 37s       sec/eval 20.1    sec/iter 0.03    maintenance 2.6   
+Average PSNR: 29.34
+iter 3240       time 1m 59s       sec/eval 20.2    sec/iter 0.03    maintenance 2.4   
+Average PSNR: 29.11
+iter 3888       time 2m 22s       sec/eval 20.2    sec/iter 0.03    maintenance 2.5   
+Average PSNR: 29.11
+iter 4536       time 2m 44s       sec/eval 20.2    sec/iter 0.03    maintenance 2.3   
+Average PSNR: 29.30
+iter 5184       time 3m 07s       sec/eval 20.2    sec/iter 0.03    maintenance 2.4   
+Average PSNR: 29.20
+iter 5832       time 3m 29s       sec/eval 20.2    sec/iter 0.03    maintenance 2.3   
+Average PSNR: 29.17
+iter 6480       time 3m 52s       sec/eval 20.2    sec/iter 0.03    maintenance 2.2   
+Average PSNR: 28.94
+iter 7128       time 4m 14s       sec/eval 20.2    sec/iter 0.03    maintenance 2.3   
+Average PSNR: 27.64
+iter 7776       time 4m 37s       sec/eval 20.2    sec/iter 0.03    maintenance 2.4   
+Average PSNR: 28.95
+iter 8424       time 4m 59s       sec/eval 20.2    sec/iter 0.03    maintenance 2.4   
+Average PSNR: 28.71
+iter 9072       time 5m 22s       sec/eval 20.2    sec/iter 0.03    maintenance 2.3   
+Average PSNR: 28.76
+iter 9720       time 5m 45s       sec/eval 20.2    sec/iter 0.03    maintenance 2.5   
+Average PSNR: 28.49
+iter 10368      time 6m 07s       sec/eval 20.2    sec/iter 0.03    maintenance 2.3   
+Average PSNR: 28.59
+iter 11016      time 6m 30s       sec/eval 20.2    sec/iter 0.03    maintenance 2.3   
+Average PSNR: 28.68
+iter 11664      time 6m 52s       sec/eval 20.2    sec/iter 0.03    maintenance 2.2   
+Average PSNR: 28.62
+iter 12312      time 7m 14s       sec/eval 20.2    sec/iter 0.03    maintenance 2.1   
+Average PSNR: 28.61
+iter 12960      time 7m 37s       sec/eval 20.2    sec/iter 0.03    maintenance 2.1   
+Average PSNR: 28.57
+iter 13608      time 7m 59s       sec/eval 20.2    sec/iter 0.03    maintenance 2.1   
+Average PSNR: 28.61
+iter 14256      time 8m 21s       sec/eval 20.2    sec/iter 0.03    maintenance 2.2   
+Average PSNR: 28.60
+iter 14904      time 8m 44s       sec/eval 20.2    sec/iter 0.03    maintenance 2.3   
+Average PSNR: 28.59
+iter 15552      time 9m 06s       sec/eval 20.2    sec/iter 0.03    maintenance 2.1   
+Average PSNR: 26.93
+iter 16200      time 9m 29s       sec/eval 20.2    sec/iter 0.03    maintenance 2.2   
+Average PSNR: 28.57
+iter 16848      time 9m 51s       sec/eval 20.2    sec/iter 0.03    maintenance 2.1   
+Average PSNR: 28.63
+iter 17496      time 10m 13s      sec/eval 20.2    sec/iter 0.03    maintenance 2.1   
+Average PSNR: 28.61
+iter 18144      time 10m 36s      sec/eval 20.2    sec/iter 0.03    maintenance 2.2   
+Average PSNR: 28.57
+iter 18792      time 10m 58s      sec/eval 20.2    sec/iter 0.03    maintenance 2.1   
+Average PSNR: 28.57
+iter 19440      time 11m 20s      sec/eval 20.2    sec/iter 0.03    maintenance 2.1   
+Average PSNR: 28.55
+iter 20088      time 11m 43s      sec/eval 20.2    sec/iter 0.03    maintenance 2.1   
+Average PSNR: 28.57
+iter 20736      time 12m 05s      sec/eval 20.2    sec/iter 0.03    maintenance 2.1   
+Average PSNR: 28.55
+iter 21384      time 12m 27s      sec/eval 20.2    sec/iter 0.03    maintenance 2.0   
+Average PSNR: 28.61
+iter 22032      time 12m 49s      sec/eval 20.2    sec/iter 0.03    maintenance 2.0   
+Average PSNR: 28.55
+iter 22680      time 13m 12s      sec/eval 20.2    sec/iter 0.03    maintenance 2.1   
+Average PSNR: 28.53
+iter 23328      time 13m 34s      sec/eval 20.2    sec/iter 0.03    maintenance 2.0   
+Average PSNR: 28.57
+iter 23976      time 13m 56s      sec/eval 20.2    sec/iter 0.03    maintenance 2.1   
+Average PSNR: 28.53
+iter 24624      time 14m 18s      sec/eval 20.2    sec/iter 0.03    maintenance 2.1   
+Average PSNR: 28.41
+iter 25272      time 14m 41s      sec/eval 20.2    sec/iter 0.03    maintenance 2.1   
+Average PSNR: 28.37
+iter 25920      time 15m 03s      sec/eval 20.2    sec/iter 0.03    maintenance 2.2   
+Average PSNR: 28.56
+iter 26568      time 15m 26s      sec/eval 20.2    sec/iter 0.03    maintenance 2.3   
+Average PSNR: 28.53
+iter 27216      time 15m 48s      sec/eval 20.2    sec/iter 0.03    maintenance 2.1   
+Average PSNR: 28.31
+iter 27864      time 16m 10s      sec/eval 20.2    sec/iter 0.03    maintenance 2.0   
+Average PSNR: 28.52
+iter 28512      time 16m 32s      sec/eval 20.2    sec/iter 0.03    maintenance 2.1   
+Average PSNR: 28.39
+iter 29160      time 16m 55s      sec/eval 20.2    sec/iter 0.03    maintenance 2.1   
+Average PSNR: 28.48
+iter 29808      time 17m 17s      sec/eval 20.2    sec/iter 0.03    maintenance 2.3   
+Average PSNR: 28.58
+iter 30456      time 17m 40s      sec/eval 20.2    sec/iter 0.03    maintenance 2.1   
+Average PSNR: 28.47
+iter 31104      time 18m 02s      sec/eval 20.2    sec/iter 0.03    maintenance 2.1   
+Average PSNR: 28.52
+iter 31752      time 18m 24s      sec/eval 20.2    sec/iter 0.03    maintenance 2.2   
+Average PSNR: 28.48
+iter 32400      time 18m 47s      sec/eval 20.2    sec/iter 0.03    maintenance 2.0   
+Average PSNR: 28.52
+iter 33048      time 19m 09s      sec/eval 20.2    sec/iter 0.03    maintenance 2.0   
+Average PSNR: 28.26
+iter 33696      time 19m 31s      sec/eval 20.2    sec/iter 0.03    maintenance 2.1   
+Average PSNR: 28.45
+iter 34344      time 19m 54s      sec/eval 20.2    sec/iter 0.03    maintenance 2.2   
+Average PSNR: 28.55
+iter 34992      time 20m 16s      sec/eval 20.2    sec/iter 0.03    maintenance 2.2   
+Average PSNR: 28.51
+iter 35640      time 20m 38s      sec/eval 20.2    sec/iter 0.03    maintenance 2.1   
+Average PSNR: 28.31
+iter 36288      time 21m 01s      sec/eval 20.2    sec/iter 0.03    maintenance 2.2   
+Average PSNR: 28.47
+iter 36936      time 21m 23s      sec/eval 20.2    sec/iter 0.03    maintenance 2.2   
+Average PSNR: 28.51
+iter 37584      time 21m 45s      sec/eval 20.2    sec/iter 0.03    maintenance 2.1   
+Average PSNR: 28.50
+iter 38232      time 22m 08s      sec/eval 20.2    sec/iter 0.03    maintenance 2.1   
+Average PSNR: 28.55
+iter 38880      time 22m 30s      sec/eval 20.2    sec/iter 0.03    maintenance 2.0   
+Average PSNR: 28.50
+iter 39528      time 22m 52s      sec/eval 20.2    sec/iter 0.03    maintenance 2.0   
+Average PSNR: 28.52
+iter 40176      time 23m 14s      sec/eval 20.2    sec/iter 0.03    maintenance 1.9   
+Average PSNR: 28.49
+iter 40824      time 23m 36s      sec/eval 20.2    sec/iter 0.03    maintenance 1.9   
+Average PSNR: 28.52
+iter 41472      time 23m 59s      sec/eval 20.2    sec/iter 0.03    maintenance 2.0   
+Average PSNR: 28.50
+iter 42120      time 24m 21s      sec/eval 20.2    sec/iter 0.03    maintenance 2.1   
+Average PSNR: 28.52
+iter 42768      time 24m 43s      sec/eval 20.2    sec/iter 0.03    maintenance 2.1   
+Average PSNR: 28.52
+iter 43416      time 25m 05s      sec/eval 20.3    sec/iter 0.03    maintenance 1.9   
+Average PSNR: 28.48
+iter 44064      time 25m 28s      sec/eval 20.2    sec/iter 0.03    maintenance 2.2   
+Average PSNR: 28.16
+iter 44712      time 25m 50s      sec/eval 20.2    sec/iter 0.03    maintenance 2.0   
+Average PSNR: 28.50
+iter 45360      time 26m 12s      sec/eval 20.2    sec/iter 0.03    maintenance 2.0   
+Average PSNR: 28.50
+iter 46008      time 26m 35s      sec/eval 20.2    sec/iter 0.03    maintenance 2.0   
+Average PSNR: 28.53
+iter 46656      time 26m 57s      sec/eval 20.2    sec/iter 0.03    maintenance 2.1   
+Average PSNR: 28.52
+iter 47304      time 27m 19s      sec/eval 20.3    sec/iter 0.03    maintenance 1.9   
+Average PSNR: 28.53
+iter 47952      time 27m 41s      sec/eval 20.2    sec/iter 0.03    maintenance 1.9   
+Average PSNR: 28.50
+iter 48600      time 28m 03s      sec/eval 20.2    sec/iter 0.03    maintenance 1.9   
+Average PSNR: 28.46
+iter 49248      time 28m 26s      sec/eval 20.2    sec/iter 0.03    maintenance 1.9   
+Average PSNR: 28.42
+iter 49896      time 28m 48s      sec/eval 20.2    sec/iter 0.03    maintenance 2.0   
+Average PSNR: 28.49
+iter 50544      time 29m 10s      sec/eval 20.2    sec/iter 0.03    maintenance 2.0   
+Average PSNR: 28.49
+iter 51192      time 29m 32s      sec/eval 20.2    sec/iter 0.03    maintenance 1.9   
+Average PSNR: 28.44
+iter 51840      time 29m 54s      sec/eval 20.2    sec/iter 0.03    maintenance 1.9   
+Average PSNR: 28.51
+iter 52488      time 30m 16s      sec/eval 20.2    sec/iter 0.03    maintenance 1.8   
+Average PSNR: 28.49
+iter 53136      time 30m 38s      sec/eval 20.2    sec/iter 0.03    maintenance 2.0   
+Average PSNR: 28.47
+iter 53784      time 31m 01s      sec/eval 20.2    sec/iter 0.03    maintenance 1.9   
+Average PSNR: 28.47
+iter 54432      time 31m 23s      sec/eval 20.2    sec/iter 0.03    maintenance 1.9   
+Average PSNR: 28.47
+iter 55080      time 31m 45s      sec/eval 20.2    sec/iter 0.03    maintenance 2.0   
+Average PSNR: 28.47
+iter 55728      time 32m 07s      sec/eval 20.2    sec/iter 0.03    maintenance 1.9   
+Average PSNR: 28.47
+iter 56376      time 32m 29s      sec/eval 20.2    sec/iter 0.03    maintenance 2.0   
+Average PSNR: 28.48
+iter 57024      time 32m 52s      sec/eval 20.2    sec/iter 0.03    maintenance 1.9   
+Average PSNR: 28.45
+iter 57672      time 33m 14s      sec/eval 20.2    sec/iter 0.03    maintenance 1.8   
+Average PSNR: 28.46
+iter 58320      time 33m 36s      sec/eval 20.2    sec/iter 0.03    maintenance 1.9   
+Average PSNR: 28.47
+iter 58968      time 33m 58s      sec/eval 20.2    sec/iter 0.03    maintenance 1.9   
+Average PSNR: 28.47
+iter 59616      time 34m 20s      sec/eval 20.2    sec/iter 0.03    maintenance 1.8   
+Average PSNR: 28.46
+iter 60264      time 34m 42s      sec/eval 20.2    sec/iter 0.03    maintenance 1.9   
+Average PSNR: 28.46
+iter 60912      time 35m 04s      sec/eval 20.2    sec/iter 0.03    maintenance 1.8   
+Average PSNR: 28.48
+iter 61560      time 35m 26s      sec/eval 20.2    sec/iter 0.03    maintenance 2.0   
+Average PSNR: 28.47
+iter 62208      time 35m 48s      sec/eval 20.2    sec/iter 0.03    maintenance 2.0   
+Average PSNR: 28.48
+iter 62856      time 36m 11s      sec/eval 20.2    sec/iter 0.03    maintenance 2.0   
+Average PSNR: 28.48
+iter 63504      time 36m 33s      sec/eval 20.2    sec/iter 0.03    maintenance 1.9   
+Average PSNR: 28.48
+iter 64152      time 36m 55s      sec/eval 20.2    sec/iter 0.03    maintenance 1.9   
