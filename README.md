@@ -5,13 +5,13 @@
 
 **Abstract**:
 
-_This repository is for my Machine Learning course final project and based on [Noise2Noise](https://github.com/NVlabs/noise2noise)
+This repository is for my Machine Learning course final project and based on [Noise2Noise](https://github.com/NVlabs/noise2noise).
 
 ## Resources
 
 * [Paper (arXiv)](https://arxiv.org/abs/1803.04189)
 
-All the material, including source code, is made freely available for non-commercial use under the Creative Commons [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/legalcode) license. Feel free to use any of the material in your own work, as long as you give us appropriate credit by mentioning the title and author list of the Noise2Noise paper.
+All the material, including source code, is made freely available for non-commercial use under the Creative Commons [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/legalcode) license. Feel free to use any of the material in your own work, as long as you give us appropriate credit by mentioning the title and author list of Noise2Noise paper.
 
 ## Getting started
 
