@@ -83,7 +83,7 @@ python config.py validate --dataset-dir=datasets/images_val --network-snapshot=r
 
 You can find pre-trained networks for Poisson and Gaussian noise removal in `.results/pretrained` directory. 
 
-## Reproducing Noise2Noise paper results
+## Reproducing the project report results
 
 Here's a summary of training options to reproduce results from the project report:
 
